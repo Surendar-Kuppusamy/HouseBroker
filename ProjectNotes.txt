@@ -1,0 +1,44 @@
+Base Setup:
+-----------
+*) Project Reference Link: "https://github.com/bradtraversy/proshop_mern/tree/master/backend"
+*) Create project with command "npm init".
+*) Give project details and respository link.
+
+
+Frontend packages installed:
+----------------------------
+npm i dotenv
+npm i redux
+npm i react-redux
+npm i redux-devtools-extension
+npm i redux-thunk
+npm i react-router-dom
+npm i bootstrap
+npm i react-datepicker
+npm i react-select
+npm i react-dropdown
+npm i react-dropzone
+npm i axios
+npm i react-toastify
+npm i react-paginate
+npm i react-step-wizard
+npm i react-modal
+npm i react-confirm-alert
+npm i @fortawesome/react-fontawesome
+npm i @fortawesome/fontawesome-svg-core
+npm i @fortawesome/free-solid-svg-icons
+
+
+Backend packages installed:
+---------------------------
+npm i concurrently
+npm i express
+npm i express-validator
+npm i express-async-handler
+npm i cors
+npm i jsonwebtoken
+npm i dotenv
+npm i multer
+npm i morgan
+npm i winston
+npm i mongoose
